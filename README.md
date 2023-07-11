@@ -7,7 +7,7 @@ Nesse desafio, foi desenvolvido uma aplicação para gerenciar um carrinho de co
 - Exibir o total de itens no carrinho no Header
 - Exibir o valor total da soma de itens no carrinho multiplicados pelo valor
 
-Reforçados os conhecimentos em:
+Reforçando os conhecimentos em:
 
 - React - ViteJs
 - Typescript
